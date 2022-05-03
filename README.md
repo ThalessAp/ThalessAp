@@ -92,9 +92,11 @@ https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoCol
 
 ![My Streaks](https://github-readme-streak-stats.herokuapp.com/?user=ThalessAp&theme=blue-green)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThalessAp&theme=blue-green)
+![My Trophys](https://github-profile-trophy.vercel.app/?username=ThalessAp&theme=blue-green)
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ThalessAp&theme=blue-green)
+![My Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThalessAp)
+
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ThalessAp&theme=minimal)
 
 
 ## 😂 Here is a random joke that'll make you laugh!
